@@ -3,7 +3,6 @@ import React from 'react';
 import {BrowserRouter} from 'react-router-dom';
 import Menu from './Menu';
 import Footer from './Footer';
-import CARDS from './Cards';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import 'font-awesome/css/font-awesome.min.css';
 import AOS from 'aos';
@@ -29,7 +28,6 @@ function App(props) {
           <h1>About ME!</h1> 
 
 
-      <CARDS />
       </div>
      
       <div id= "target3" className="  CV text-center  d-none d-lg-block">
