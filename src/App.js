@@ -22,6 +22,7 @@ function App(props) {
               </div>
           </div>
       </div>
+      <hr className="col-md-10"/>
       <div className="background">
       <div id="target2" className="aboutcontent  text-center">
         
