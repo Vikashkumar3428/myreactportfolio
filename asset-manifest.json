@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/myreactportfolio/static/css/main.f2e89777.chunk.css",
-    "main.js": "/myreactportfolio/static/js/main.e10c5d09.chunk.js",
-    "main.js.map": "/myreactportfolio/static/js/main.e10c5d09.chunk.js.map",
+    "main.js": "/myreactportfolio/static/js/main.25df79b9.chunk.js",
+    "main.js.map": "/myreactportfolio/static/js/main.25df79b9.chunk.js.map",
     "runtime-main.js": "/myreactportfolio/static/js/runtime-main.b7dc9adc.js",
     "runtime-main.js.map": "/myreactportfolio/static/js/runtime-main.b7dc9adc.js.map",
     "static/css/2.6bf67e78.chunk.css": "/myreactportfolio/static/css/2.6bf67e78.chunk.css",
-    "static/js/2.6566717c.chunk.js": "/myreactportfolio/static/js/2.6566717c.chunk.js",
-    "static/js/2.6566717c.chunk.js.map": "/myreactportfolio/static/js/2.6566717c.chunk.js.map",
+    "static/js/2.8a176135.chunk.js": "/myreactportfolio/static/js/2.8a176135.chunk.js",
+    "static/js/2.8a176135.chunk.js.map": "/myreactportfolio/static/js/2.8a176135.chunk.js.map",
     "index.html": "/myreactportfolio/index.html",
-    "precache-manifest.b2a022a7aa387a373ba7000c03683eef.js": "/myreactportfolio/precache-manifest.b2a022a7aa387a373ba7000c03683eef.js",
+    "precache-manifest.a5df7062e97d70d9766b7fcb88d1960b.js": "/myreactportfolio/precache-manifest.a5df7062e97d70d9766b7fcb88d1960b.js",
     "service-worker.js": "/myreactportfolio/service-worker.js",
     "static/css/2.6bf67e78.chunk.css.map": "/myreactportfolio/static/css/2.6bf67e78.chunk.css.map",
     "static/css/main.f2e89777.chunk.css.map": "/myreactportfolio/static/css/main.f2e89777.chunk.css.map",
-    "static/js/2.6566717c.chunk.js.LICENSE.txt": "/myreactportfolio/static/js/2.6566717c.chunk.js.LICENSE.txt",
+    "static/js/2.8a176135.chunk.js.LICENSE.txt": "/myreactportfolio/static/js/2.8a176135.chunk.js.LICENSE.txt",
     "static/media/index.css": "/myreactportfolio/static/media/d.6d3e94be.jpg",
     "static/media/Resume.pdf": "/myreactportfolio/static/media/Resume.8e44616e.pdf",
     "static/media/font-awesome.min.css": "/myreactportfolio/static/media/fontawesome-webfont.fee66e71.woff"
@@ -21,8 +21,8 @@
   "entrypoints": [
     "static/js/runtime-main.b7dc9adc.js",
     "static/css/2.6bf67e78.chunk.css",
-    "static/js/2.6566717c.chunk.js",
+    "static/js/2.8a176135.chunk.js",
     "static/css/main.f2e89777.chunk.css",
-    "static/js/main.e10c5d09.chunk.js"
+    "static/js/main.25df79b9.chunk.js"
   ]
 }
