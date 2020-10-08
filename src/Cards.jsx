@@ -13,7 +13,7 @@ function cards() {
               <div className="card-div rounded">
                   <Card className="my-details  bg-dark text-white" >
                 
-                    Hi there! I am <strong>&nbsp;VIKASH KUMAR</strong>
+                    Hi there! I am <strong >&nbsp;VIKASH KUMAR</strong>
                     <br />A passionate web developer born and brought up in India. I am a Web Developer with React.js as my tech stack.
                     <br />
                     Currently I am pursuing B.Tech from Lovely Professional University.
