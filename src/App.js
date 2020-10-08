@@ -1,6 +1,6 @@
 
 import React from 'react';
-import {BrowserRouter} from 'react-router-dom';
+import {BrowserRouter,HashRouter} from 'react-router-dom';
 import Menu from './Menu';
 import Footer from './Footer';
 import CARDS from './Cards';
@@ -11,7 +11,7 @@ import  "aos/dist/aos.css";
 function App(props) {
   AOS.init()
   return (
-    <BrowserRouter className="col-12 container">
+    <HashRouter className="col-12 container">
    
       <Menu />
       <div className="HOME col-12 ">
@@ -146,7 +146,7 @@ function App(props) {
             </div>
     </div>
   
-    </BrowserRouter>
+    </HashRouter>
   );
 };
 
