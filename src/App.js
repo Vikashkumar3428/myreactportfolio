@@ -13,7 +13,7 @@ function App(props) {
   return (
     <HashRouter className="col-12 container">
    
-      <Menu />
+     
       <div className="HOME col-12 ">
          <div id="target1">
               <div className=" content text-center">
