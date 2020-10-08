@@ -13,7 +13,7 @@ code {
     monospace;
 }
 
-.pname{
+.Nameanim{
   text-align: center;
   padding-left: 30%;
   animation: type 3s,5s steps(20) infinite linear;
