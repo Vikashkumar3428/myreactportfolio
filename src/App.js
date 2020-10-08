@@ -19,11 +19,11 @@ function App(props) {
       <div className="HOME col-12 ">
          <div id="target1">
               <div className=" content text-center">
-                    <h1 >Hey, I'm </h1><h1>
-                    <Typical
-                        steps={['Vikash', 2000, 'Vikash Kumar!', 1000]}
-                        loop={Infinity}
-                      /></h1>
+                    <h1 >Hey, I'm </h1><h1 className="Nameanim">Vikash Kumar!</h1>
+                    // <Typical
+                    //     steps={['Vikash', 2000, 'Vikash Kumar!', 1000]}
+                    //     loop={Infinity}
+                    //   /></h1>
                     <span className="change-content"></span>
               </div>
           </div>
