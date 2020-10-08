@@ -7,7 +7,7 @@ class Menu2 extends Component {
     render () {
         return (
             
-
+            
          <div className="header">
                     <Navbar bg="dark" expand="lg">
                         <Navbar.Toggle aria-controls="basic-navbar-nav" />

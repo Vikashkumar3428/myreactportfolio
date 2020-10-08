@@ -21,7 +21,7 @@ function App(props) {
               <div className=" content text-center">
                     <h1 >Hey, I'm </h1><h1>
                     <Typical
-                        steps={['Vikash', 2000, 'Vikash Kumar!', 1000]}
+                        steps={['Vikash', 2000, '.....!', 1000 , 'Vikash Kumar!', 1000]}
                         loop={Infinity}
                       /></h1>
                     <span className="change-content"></span>
