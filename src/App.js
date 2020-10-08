@@ -1,7 +1,6 @@
 
 import React from 'react';
 import {BrowserRouter,HashRouter} from 'react-router-dom';
-import Menu from './Menu';
 import Footer from './Footer';
 import CARDS from './Cards';
 import 'bootstrap/dist/css/bootstrap.min.css';
@@ -17,7 +16,7 @@ function App(props) {
       <div className="HOME col-12 ">
          <div id="target1">
               <div className=" content text-center">
-                    <h1>Hey,I'm <p className="pname">Vikash Kumar!</p> </h1>
+                    <h1>Hey,I'm <p >Vikash Kumar!</p> </h1>
                     <span className="change-content"></span>
               </div>
           </div>
