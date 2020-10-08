@@ -26,6 +26,7 @@ code {
 }
 @keyframes type{
   0%{width: 0ch;}
+  40%{width: 10.5ch;}
   100%{width: 20.5ch;}
 }
 
