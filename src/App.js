@@ -9,6 +9,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import 'font-awesome/css/font-awesome.min.css';
 import AOS from 'aos';
 import  "aos/dist/aos.css";
+import Typical from 'react-typical';
 function App(props) {
   AOS.init()
   return (
@@ -18,8 +19,11 @@ function App(props) {
       <div className="HOME col-12 ">
          <div id="target1">
               <div className=" content text-center">
-                    <h1 >Hey, I'm <p className="Nameanim">Vikash Kumar!</p></h1>
-                    
+                    <h1 >Hey, I'm </h1><h1>
+                    <Typical
+                        steps={['Vikash', 2000, 'Vikash Kumar!', 1000]}
+                        loop={Infinity}
+                      /></h1>
                     <span className="change-content"></span>
               </div>
           </div>
