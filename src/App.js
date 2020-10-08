@@ -18,7 +18,7 @@ function App(props) {
       <div className="HOME col-12 ">
          <div id="target1">
               <div className=" content text-center">
-                    <h1 className="Nameanim">Hey, I'm </h1><h1 >Vikash Kumar!</h1>
+                    <h1 >Hey, I'm </h1><h1 >Vikash Kumar!</h1>
                     <span className="change-content"></span>
               </div>
           </div>
