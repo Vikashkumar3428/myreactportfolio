@@ -28,7 +28,7 @@ function App(props) {
               </div>
           </div>
       </div>
-      <hr className="col-md-8"/>
+      <hr className="col-md-8 col-8 position-relative"/>
       <div className="background">
       <div id="target2" className="aboutcontent  text-center">
         
@@ -40,7 +40,7 @@ function App(props) {
      
       <div id= "target3" className="  CV text-center  d-none d-lg-block">
           <h1 >Projects</h1> 
-           <hr className="col-md-8"/> 
+           <hr className="col-md-8 position-relative col-8"/> 
            <br />
            <br />
            <br />
@@ -111,8 +111,8 @@ function App(props) {
        <br />
        <br />
       
-      <hr className="col-md-8"/>
-      <hr className="col-md-8"/>
+      <hr className="col-md-10 col-8 position-relative"/>
+      <hr className="col-md-10 col-8 position-relative"/>
       <div className="card2 align-center">
         
         </div>
@@ -147,7 +147,7 @@ function App(props) {
 
 
      <div id="target4" className="contact text-center text-white position-relative ">
-     <hr className="col-md-8"/>
+     <hr className="col-md-8 col-8"/>
              <Footer />
             </div>
     </div>
