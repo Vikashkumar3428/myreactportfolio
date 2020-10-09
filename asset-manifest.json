@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/myreactportfolio/static/css/main.7ddb286f.chunk.css",
-    "main.js": "/myreactportfolio/static/js/main.7efbd8a3.chunk.js",
-    "main.js.map": "/myreactportfolio/static/js/main.7efbd8a3.chunk.js.map",
+    "main.css": "/myreactportfolio/static/css/main.8d05a172.chunk.css",
+    "main.js": "/myreactportfolio/static/js/main.2e9659d0.chunk.js",
+    "main.js.map": "/myreactportfolio/static/js/main.2e9659d0.chunk.js.map",
     "runtime-main.js": "/myreactportfolio/static/js/runtime-main.b7dc9adc.js",
     "runtime-main.js.map": "/myreactportfolio/static/js/runtime-main.b7dc9adc.js.map",
     "static/css/2.6bf67e78.chunk.css": "/myreactportfolio/static/css/2.6bf67e78.chunk.css",
-    "static/js/2.8a176135.chunk.js": "/myreactportfolio/static/js/2.8a176135.chunk.js",
-    "static/js/2.8a176135.chunk.js.map": "/myreactportfolio/static/js/2.8a176135.chunk.js.map",
+    "static/js/2.468c954d.chunk.js": "/myreactportfolio/static/js/2.468c954d.chunk.js",
+    "static/js/2.468c954d.chunk.js.map": "/myreactportfolio/static/js/2.468c954d.chunk.js.map",
     "index.html": "/myreactportfolio/index.html",
-    "precache-manifest.9cdce75b87b73444d9b1c1830c199bfc.js": "/myreactportfolio/precache-manifest.9cdce75b87b73444d9b1c1830c199bfc.js",
+    "precache-manifest.83d7d86d324f825c22aae64c6a89a088.js": "/myreactportfolio/precache-manifest.83d7d86d324f825c22aae64c6a89a088.js",
     "service-worker.js": "/myreactportfolio/service-worker.js",
     "static/css/2.6bf67e78.chunk.css.map": "/myreactportfolio/static/css/2.6bf67e78.chunk.css.map",
-    "static/css/main.7ddb286f.chunk.css.map": "/myreactportfolio/static/css/main.7ddb286f.chunk.css.map",
-    "static/js/2.8a176135.chunk.js.LICENSE.txt": "/myreactportfolio/static/js/2.8a176135.chunk.js.LICENSE.txt",
+    "static/css/main.8d05a172.chunk.css.map": "/myreactportfolio/static/css/main.8d05a172.chunk.css.map",
+    "static/js/2.468c954d.chunk.js.LICENSE.txt": "/myreactportfolio/static/js/2.468c954d.chunk.js.LICENSE.txt",
     "static/media/index.css": "/myreactportfolio/static/media/d.6d3e94be.jpg",
     "static/media/Resume.pdf": "/myreactportfolio/static/media/Resume.8e44616e.pdf",
     "static/media/font-awesome.min.css": "/myreactportfolio/static/media/fontawesome-webfont.fee66e71.woff"
@@ -21,8 +21,8 @@
   "entrypoints": [
     "static/js/runtime-main.b7dc9adc.js",
     "static/css/2.6bf67e78.chunk.css",
-    "static/js/2.8a176135.chunk.js",
-    "static/css/main.7ddb286f.chunk.css",
-    "static/js/main.7efbd8a3.chunk.js"
+    "static/js/2.468c954d.chunk.js",
+    "static/css/main.8d05a172.chunk.css",
+    "static/js/main.2e9659d0.chunk.js"
   ]
 }
