@@ -9,8 +9,8 @@ class Menu2 extends Component {
             
             
          <div className="header">
-                    <Navbar bg="dark" expand="lg">
-                        <Navbar.Toggle aria-controls="basic-navbar-nav" />
+                    <Navbar bg="light" expand="lg">
+                        <Navbar.Toggle aria-controls=" basic-navbar-nav" />
                         <Navbar.Collapse id="basic-navbar-nav">
                             <Nav className="m-auto">
                                 
@@ -22,7 +22,7 @@ class Menu2 extends Component {
                                             offset={50}
                                             duration={500}
                                             delay={500}
-                                            className="nav-link fa fa-home text-white text-uppercase mr-5" 
+                                            className="nav-link fa fa-home text-dark text-uppercase mr-5" 
                                             >&nbsp; Home<span class="sr-only">(current)</span></Link>
                                         </li>
                                         <li className="nav-item">
@@ -34,7 +34,7 @@ class Menu2 extends Component {
                                             duration={500}
                                             delay={500}
                                             
-                                            className="nav-link fa fa-user text-white text-uppercase mr-5" 
+                                            className="nav-link fa fa-user text-dark text-uppercase mr-5" 
                                             >&nbsp; About</Link>
                                         </li>
 
@@ -47,7 +47,7 @@ class Menu2 extends Component {
                                             duration={500}
                                             delay={500}
                                             
-                                            className="nav-link fa fa-code text-white text-uppercase mr-5" 
+                                            className="nav-link fa fa-code text-dark text-uppercase mr-5" 
                                             >&nbsp; Projects</Link>
                                         </li>
                                         <li className="nav-item">
@@ -59,7 +59,7 @@ class Menu2 extends Component {
                                             duration={500}
                                             delay={500}
                                             
-                                            className="nav-link fa fa-phone text-white text-uppercase mr-5" 
+                                            className="nav-link fa fa-phone text-dark text-uppercase mr-5" 
                                             >&nbsp; Contact</Link>
                                         </li>
                                         <li className="nav-item">
@@ -71,7 +71,7 @@ class Menu2 extends Component {
                                             duration={500}
                                             delay={500}
                                             
-                                            className="nav-link fa fa-cogs text-white text-uppercase mr-5" 
+                                            className="nav-link fa fa-cogs text-dark text-uppercase mr-5" 
                                             >&nbsp; Skills</Link>
                                         </li>
                         

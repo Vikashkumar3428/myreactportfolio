@@ -9,10 +9,10 @@ function cards() {
         <Container className="pt-3 pb-5 align-items-center" >
         
            
-            <Col >
+            <div >
               <div className="card-div rounded">
-                  <Card className="my-details  bg-dark text-white" >
-                
+                  <Card className="my-details bg-dark text-white" >
+   
                     Hi there! I am <strong >&nbsp;VIKASH KUMAR</strong>
                     <br />A passionate web developer born and brought up in India. I am a Web Developer with React.js as my tech stack.
                     <br />
@@ -21,13 +21,13 @@ function cards() {
                     Along with that, I love learning about new technologies, How problems are getting solved, How to use, build better and scalable products.
                     <br /> <br /> 
               <div >
-                <Button className="mx-2 "><a className="buton text-white " href="https://www.linkedin.com/in/vikash-kumar-b94847190/">LinkedIn</a></Button>
-                <Button className="mx-2 bg-success " href = {Pdf}><a  className="buton text-white "  target = "_blank">Resume</a> </Button>
-                <Button className="mx-2 bg-dark"><a className="buton text-white" href="https://github.com/Vikashkumar3428">GitHub</a></Button>
+              <Button className="mx-1 col-md-3 col-lg-2 mb-3 col-7 mb-md-0"><a className="buton text-white px-0" href="https://www.linkedin.com/in/vikash-kumar-b94847190/">LinkedIn</a></Button>
+              <Button className="mx-1 bg-success col-md-3  col-lg-2 col-7 mb-3 mb-md-0" href = {Pdf}><a  className="buton text-white "  target = "_blank">Resume</a> </Button>
+              <Button className="mx-1 bg-dark col-md-3 mb-3 col-lg-2 col-7 mb-md-0"><a className="buton text-white" href="https://github.com/Vikashkumar3428">GitHub</a></Button>
                 </div>
               </Card>
         </div>
-            </Col>
+            </div>
    
          
 </Container>
